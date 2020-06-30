@@ -1,0 +1,13 @@
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.exe
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.deps.json
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.json
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.dev.json
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csprojAssemblyReference.cache
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfoInputs.cache
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfo.cs
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+C:\Users\HaciIsma\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.genruntimeconfig.cache

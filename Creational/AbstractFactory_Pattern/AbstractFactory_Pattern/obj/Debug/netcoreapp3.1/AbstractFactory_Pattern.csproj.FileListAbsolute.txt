@@ -1,0 +1,13 @@
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\bin\Debug\netcoreapp3.1\AbstractFactory_Pattern.exe
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\bin\Debug\netcoreapp3.1\AbstractFactory_Pattern.deps.json
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\bin\Debug\netcoreapp3.1\AbstractFactory_Pattern.runtimeconfig.json
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\bin\Debug\netcoreapp3.1\AbstractFactory_Pattern.runtimeconfig.dev.json
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\bin\Debug\netcoreapp3.1\AbstractFactory_Pattern.dll
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\bin\Debug\netcoreapp3.1\AbstractFactory_Pattern.pdb
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\obj\Debug\netcoreapp3.1\AbstractFactory_Pattern.csprojAssemblyReference.cache
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\obj\Debug\netcoreapp3.1\AbstractFactory_Pattern.AssemblyInfoInputs.cache
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\obj\Debug\netcoreapp3.1\AbstractFactory_Pattern.AssemblyInfo.cs
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\obj\Debug\netcoreapp3.1\AbstractFactory_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\obj\Debug\netcoreapp3.1\AbstractFactory_Pattern.dll
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\obj\Debug\netcoreapp3.1\AbstractFactory_Pattern.pdb
+C:\Users\HaciIsma\source\repos\AbstractFactory_Pattern\AbstractFactory_Pattern\obj\Debug\netcoreapp3.1\AbstractFactory_Pattern.genruntimeconfig.cache
